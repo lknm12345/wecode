@@ -1,0 +1,6 @@
+git branch - branch 확인
+git branch "" - branch 추가
+git checkout ""- branch 변경
+git add . - 파일 업로딩 (중간지점)
+git commit - 변경사항에 대한 텍스트 입력
+git push - github에 업로딩(최종)햣
