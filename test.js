@@ -7,3 +7,5 @@ function result () {
   } 
   return num;
 }
+
+result()
